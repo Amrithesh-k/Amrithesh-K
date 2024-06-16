@@ -10,9 +10,9 @@ Welcome to my GitHub portfolio! I am passionate about leveraging technology to s
 - 🚀 Constantly exploring new technologies and staying on the cutting edge of software development.
 
 ### Projects
-https://github.com/Amrithesh-k/BLANKAi
-https://github.com/Amrithesh-k/EmtionDet
-https://github.com/Amrithesh-k/FireSafety_AI
+-BLANKAi(https://github.com/Amrithesh-k/BLANKAi)
+-EmotionDet(https://github.com/Amrithesh-k/EmtionDet)
+-FireDetectionAi(https://github.com/Amrithesh-k/FireSafety_AI)
 
 ### Skills
 - Programming Languages: (List your programming languages here)
