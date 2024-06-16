@@ -10,14 +10,14 @@ Welcome to my GitHub portfolio! I am passionate about leveraging technology to s
 - 🚀 Constantly exploring new technologies and staying on the cutting edge of software development.
 
 ### Projects
--BLANKAi(https://github.com/Amrithesh-k/BLANKAi)
--EmotionDet(https://github.com/Amrithesh-k/EmtionDet)
--FireDetectionAi(https://github.com/Amrithesh-k/FireSafety_AI)
+- [BLANKAi](https://github.com/Amrithesh-k/BLANKAi)
+- [EmotionDet](https://github.com/Amrithesh-k/EmtionDet)
+- [FireDetectionAi](https://github.com/Amrithesh-k/FireSafety_AI)
 
 ### Skills
-- Programming Languages: (List your programming languages here)
-- Tools & Technologies: (List your tools and technologies here)
-- Frameworks: (List your frameworks here)
+- Programming Languages: C++, Python, Java, Go
+- Tools & Technologies: BERT, NLTK, OpenCV, TensorFlow
+- Frameworks: TensorFlow, PyTorch, Keras, Scikit-Learn, spaCy
 
 ### Contact Me
 - LinkedIn: [Amrithesh Kakkoth](https://www.linkedin.com/in/amrithesh-kakkoth-6b633b255/)
