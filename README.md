@@ -13,6 +13,9 @@ Welcome to my GitHub portfolio! I am passionate about leveraging technology to s
 - [BLANKAi](https://github.com/Amrithesh-k/BLANKAi)
 - [EmotionDet](https://github.com/Amrithesh-k/EmtionDet)
 - [SecureVision](https://github.com/Amrithesh-k/FireSafety_AI)
+- [RAG PDF ANALYSING BOT](https://github.com/Amrithesh-k/pdf_summarizabe_chatbot)
+- [Scraping](https://github.com/Amrithesh-k/Scraping)
+  
 
 ### Skills
 - Programming Languages: C++, Python, Java, Go
