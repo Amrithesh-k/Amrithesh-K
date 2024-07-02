@@ -12,7 +12,7 @@ Welcome to my GitHub portfolio! I am passionate about leveraging technology to s
 ### Projects
 - [BLANKAi](https://github.com/Amrithesh-k/BLANKAi)
 - [EmotionDet](https://github.com/Amrithesh-k/EmtionDet)
-- [SecureVision](https://github.com/Amrithesh-k/FireSafety_AI)
+- [SecureVision](https://github.com/Amrithesh-k/SecureVision)
 - [RAG PDF ANALYSING BOT](https://github.com/Amrithesh-k/pdf_summarizabe_chatbot)
 - [Scraping](https://github.com/Amrithesh-k/Scraping)
   
